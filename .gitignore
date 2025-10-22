@@ -1,0 +1,4 @@
+#permite ignorar ficheros
+#ejemplo: **/.DS_Store 
+#ese archivo se crea cuando existen carpetas ocultas en macOS
+#el    **/    se usa para ignorar ese fichero globalmente
